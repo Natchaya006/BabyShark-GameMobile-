@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Boom\Tran.cs">
+    <Files>
+      <File FileName="Assets\Boom\Tran.cs" Line="6" Column="2" />
+      <File FileName="Assets\Boom\Move.cs" Line="6" Column="21" />
+      <File FileName="Assets\Shark\Swim.cs" Line="59" Column="3" />
+      <File FileName="Assets\Borad\UIManager.cs" Line="16" Column="20" />
+      <File FileName="Assets\Boom\Random.cs" Line="19" Column="33" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
