@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/UnderwaterFantasy/Scenes/demo.unity
+  isLoaded: 1
+  isActive: 1
